@@ -30,3 +30,5 @@ Sequential Circuit:
 3. 
 
 
+Resources:
+1. To setup verilog and run in VSCode: https://www.youtube.com/watch?v=3Xm6fgKAO94
