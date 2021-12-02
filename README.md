@@ -25,9 +25,10 @@ Combinational Ckt:
 4. Decoder [x]
 
 Sequential Circuit:
-1. Shift register 
-2. LFSR (Linear Feedback Shift Register) [x]
-3. 
+1. Shift register (SIPO)
+2. Shift register (PISO) [x]
+3. LFSR (Linear Feedback Shift Register) [x]
+4. 
 
 
 Resources:
