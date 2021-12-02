@@ -6,6 +6,18 @@ Editor - VSCode <br />
 Simulator - iverilog 0.10.0 {http://iverilog.icarus.com} <br />
 Wave Plot - GTK Wave {http://gtkwave.sourceforge.net}<br />
 
+
+To simulate and plot use below commands in terminal:-
+```
+prompt> iverilog -o file_tb.vvp file_tb.v
+```
+```
+prompt> vvp file_tb.vvp
+```
+```
+prompt> gtk output.vcd
+```
+
 Combinational Ckt:
 1. Ripple Adder (Adder) [x]
 2. Carry look ahead Adder (CLA) [x]
@@ -16,3 +28,5 @@ Sequential Circuit:
 1. Shift register 
 2. LFSR (Linear Feedback Shift Register) [x]
 3. 
+
+
