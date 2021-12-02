@@ -1,7 +1,10 @@
 # Blocks2-Design-Computer
-Contains some common modules written in Verilog for computer system design
+Contains some common modules with test-bench written in Verilog for designing computer system 
 
-Modules list:
+Tools used:<br />
+Editor - VSCode <br />
+Simulator - iverilog 0.10.0 {http://iverilog.icarus.com} <br />
+Wave Plot - GTK Wave {http://gtkwave.sourceforge.net}<br />
 
 Combinational Ckt:
 1. Ripple Adder (Adder) [x]
